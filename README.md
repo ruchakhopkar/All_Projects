@@ -9,5 +9,7 @@
 1. Training Lunar Lander [Deep Q-Learning]
 2. Training PacMan [Deep Convolutional Q-Learning]
 
+### Web Scraping using BeautifulSoup:
+1. [Web Scraping the LinkedIn Jobs page](https://github.com/ruchakhopkar/Web_Scraping_And_Analysis)
 ### Solutions to Leetcodes:
 [Leetcode Solutions](https://github.com/ruchakhopkar/LeetCode)
