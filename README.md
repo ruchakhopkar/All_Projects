@@ -11,5 +11,8 @@
 
 ### Web Scraping using BeautifulSoup:
 1. [Web Scraping the LinkedIn Jobs page](https://github.com/ruchakhopkar/Web_Scraping_And_Analysis)
+
+### Image Classification:
+1. [Using Vision Transformers for Intel Image Dataset Classification](https://www.kaggle.com/code/rkhopkar/pytorch-vision-transformers-accuracy-93)
 ### Solutions to Leetcodes:
 [Leetcode Solutions](https://github.com/ruchakhopkar/LeetCode)
