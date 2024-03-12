@@ -7,7 +7,7 @@
 
 ### Reinforcement Learning Projects:
 1. Training Lunar Lander [Deep Q-Learning]
-2. Training PacMan [Deep Convolutional Q-Learning]
+2. [Training PacMan] (https://github.com/ruchakhopkar/PacMan/tree/main)
 
 ### Web Scraping using BeautifulSoup:
 1. [Web Scraping the LinkedIn Jobs page](https://github.com/ruchakhopkar/Web_Scraping_And_Analysis)
