@@ -8,6 +8,7 @@
 ### Reinforcement Learning Projects:
 1. [Training Lunar Lander](https://github.com/ruchakhopkar/Lunar-Landing/tree/main)
 2. [Training PacMan](https://github.com/ruchakhopkar/PacMan/tree/main)
+3. [Training KungFu Master](https://github.com/ruchakhopkar/A3C_for_KungFu/tree/main)
 
 ### Web Scraping using BeautifulSoup:
 1. [Web Scraping the LinkedIn Jobs page](https://github.com/ruchakhopkar/Web_Scraping_And_Analysis)
