@@ -15,5 +15,8 @@
 
 ### Image Classification:
 1. [Using Vision Transformers for Intel Image Dataset Classification](https://www.kaggle.com/code/rkhopkar/pytorch-vision-transformers-accuracy-93)
+
+### Large Language Models:
+1. [Fine-Tuning Llama2 Model for Medical Data](https://github.com/ruchakhopkar/FineTuning_LLAMA2)
 ### Solutions to Leetcodes:
 [Leetcode Solutions](https://github.com/ruchakhopkar/LeetCode)
